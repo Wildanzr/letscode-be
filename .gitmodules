@@ -1,3 +1,15 @@
 [submodule "auth"]
 	path = auth
 	url = git@github.com:Wildanzr/letscode-be-auth.git
+[submodule "mailer"]
+	path = mailer
+	url = git@github.com:Wildanzr/letscode-be-mailer.git
+[submodule "problem"]
+	path = problem
+	url = git@github.com:Wildanzr/letscode-be-problem.git
+[submodule "submission"]
+	path = submission
+	url = git@github.com:Wildanzr/letscode-be-submission.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:Wildanzr/letscode-be-gateway.git
