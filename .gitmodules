@@ -13,3 +13,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = git@github.com:Wildanzr/letscode-be-gateway.git
+[submodule "collaboration"]
+	path = collaboration
+	url = git@github.com:Wildanzr/letscode-be-collaboration.git
