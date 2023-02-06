@@ -16,3 +16,9 @@
 [submodule "collaboration"]
 	path = collaboration
 	url = git@github.com:Wildanzr/letscode-be-collaboration.git
+[submodule "y-webrtc"]
+	path = y-webrtc
+	url = https://github.com/Wildanzr/letscode-be-webrtc.git
+[submodule "websocket"]
+	path = websocket
+	url = git@github.com:Wildanzr/letscode-be-y-websocket.git
